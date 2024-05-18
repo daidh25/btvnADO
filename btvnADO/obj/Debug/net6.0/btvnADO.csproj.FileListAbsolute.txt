@@ -1,0 +1,17 @@
+D:\ASP\Asp.net\btvnADO\btvnADO\bin\Debug\net6.0\btvnADO.deps.json
+D:\ASP\Asp.net\btvnADO\btvnADO\bin\Debug\net6.0\btvnADO.runtimeconfig.json
+D:\ASP\Asp.net\btvnADO\btvnADO\bin\Debug\net6.0\btvnADO.dll
+D:\ASP\Asp.net\btvnADO\btvnADO\bin\Debug\net6.0\btvnADO.pdb
+D:\ASP\Asp.net\btvnADO\btvnADO\bin\Debug\net6.0\EShop.Common.dll
+D:\ASP\Asp.net\btvnADO\btvnADO\bin\Debug\net6.0\EShop.Common.pdb
+D:\ASP\Asp.net\btvnADO\btvnADO\obj\Debug\net6.0\btvnADO.csproj.AssemblyReference.cache
+D:\ASP\Asp.net\btvnADO\btvnADO\obj\Debug\net6.0\btvnADO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Asp.net\btvnADO\btvnADO\obj\Debug\net6.0\btvnADO.AssemblyInfoInputs.cache
+D:\ASP\Asp.net\btvnADO\btvnADO\obj\Debug\net6.0\btvnADO.AssemblyInfo.cs
+D:\ASP\Asp.net\btvnADO\btvnADO\obj\Debug\net6.0\btvnADO.csproj.CoreCompileInputs.cache
+D:\ASP\Asp.net\btvnADO\btvnADO\obj\Debug\net6.0\btvnADO.csproj.CopyComplete
+D:\ASP\Asp.net\btvnADO\btvnADO\obj\Debug\net6.0\btvnADO.dll
+D:\ASP\Asp.net\btvnADO\btvnADO\obj\Debug\net6.0\refint\btvnADO.dll
+D:\ASP\Asp.net\btvnADO\btvnADO\obj\Debug\net6.0\btvnADO.pdb
+D:\ASP\Asp.net\btvnADO\btvnADO\obj\Debug\net6.0\btvnADO.genruntimeconfig.cache
+D:\ASP\Asp.net\btvnADO\btvnADO\obj\Debug\net6.0\ref\btvnADO.dll

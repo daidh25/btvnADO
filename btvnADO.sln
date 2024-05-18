@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "btvnADO", "btvnADO\btvnADO.csproj", "{2A72B7AC-4EE4-4F8B-BBAE-1E99F501E0CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShop.Common", "EShop.Common\EShop.Common.csproj", "{7B7C2F74-EDD5-419D-8CF1-30964B02F2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A72B7AC-4EE4-4F8B-BBAE-1E99F501E0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A72B7AC-4EE4-4F8B-BBAE-1E99F501E0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A72B7AC-4EE4-4F8B-BBAE-1E99F501E0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A72B7AC-4EE4-4F8B-BBAE-1E99F501E0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7C2F74-EDD5-419D-8CF1-30964B02F2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7C2F74-EDD5-419D-8CF1-30964B02F2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7C2F74-EDD5-419D-8CF1-30964B02F2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7C2F74-EDD5-419D-8CF1-30964B02F2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98C6DD83-A844-46B1-90D9-41CDB9950714}
+	EndGlobalSection
+EndGlobal
